@@ -1,7 +1,8 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23174138)
 Ariel Penaloza Davila
-03/17/2026
-It is a game for clicks in a android icon, i got an issue but it was for the config of the folder, I build a path with eclipse as a resources and It works. 
+1/04/2026
+Project setup completed successfully.
+
 
 ## Code Exploration
 What types of files are located in the src folder?

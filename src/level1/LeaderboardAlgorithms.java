@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class LeaderboardAlgorithms {
 
     /**
-     * TODO: Sort the list by score DESCENDING (highest score first).
+     * TODO: Sort the list by score DESCENDING(highest score first).
      *
      * Requirements:
      * - Sort IN PLACE (modify the given list)
